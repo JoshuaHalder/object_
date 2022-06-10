@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin-top: 0px;
+}
+#start,#number_of_objects,#status{
+    font-size: 20px;
+}
+div{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    font-size: 20px;
+    height: 5%;
+    color: firebrick;
+    background-color: gold;
+}
+canvas{
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    box-shadow: 5px 20px 50px blueviolet;
+}
